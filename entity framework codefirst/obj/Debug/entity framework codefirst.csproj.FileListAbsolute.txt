@@ -1,0 +1,22 @@
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\entity framework codefirst.exe.config
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\entity framework codefirst.exe
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\entity framework codefirst.pdb
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\EntityFramework.dll
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\EntityFramework.xml
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.csproj.AssemblyReference.cache
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\MainWindow.g.cs
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\App.g.cs
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst_MarkupCompile.cache
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst_MarkupCompile.lref
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\MainWindow.baml
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.g.resources
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity_framework_codefirst.Properties.Resources.resources
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.csproj.GenerateResource.cache
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.csproj.CoreCompileInputs.cache
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.csproj.CopyComplete
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.exe
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity framework codefirst.pdb
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity_framework_codefirst.Migrations.AddHeoAndChuongHeo.resources
+C:\Users\ndam8\source\repos\entity framework codefirst\entity framework codefirst\obj\Debug\entity_framework_codefirst.Migrations.addQuyDinh.resources
